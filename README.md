@@ -10,7 +10,7 @@
 
 **Platform:** Coursera  
 **Penyedia:** IBM  
-**Progress Program:** 3 dari 6 course selesai (50%)  
+**Progress Program:** 2 dari 6 course  
 **Update Terakhir:** 13 Oktober 2026
 
 ### Daftar Course
@@ -23,11 +23,3 @@
 | 4 | Unsupervised Machine Learning | Belum Dimulai |
 | 5 | Deep Learning and Reinforcement Learning | Belum Dimulai |
 | 6 | Machine Learning Capstone | Belum Dimulai |
-
-### Progress Selanjutnya
-
-Melanjutkan pembelajaran pada course Unsupervised Machine Learning.
-
-### Bukti Progress
-
-Progress dicatat berdasarkan status pembelajaran pada Coursera.
