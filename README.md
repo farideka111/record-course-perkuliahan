@@ -5,9 +5,28 @@
 - Program Studi: Teknik Informatika
 - Mata Kuliah: DM
 
-##Progress Pembelajaran
-Perkembangan setiap course akan diperbarui secara berkala
-agar dapat dipantau oleh dosen pengampu.
+## Progress Coursera — IBM Machine Learning
 
-## Update Terakhir
-- Tanggal: 13 Oktober 2026
+**Platform:** Coursera  
+**Penyedia:** IBM  
+**Progress Program:** 3 dari 6 course selesai (50%)  
+**Update Terakhir:** 13 Oktober 2026
+
+### Daftar Course
+
+| No. | Nama Course | Status |
+|---|---|---|
+| 1 | Exploratory Data Analysis for Machine Learning | Selesai |
+| 2 | Supervised Machine Learning: Regression | Selesai |
+| 3 | Supervised Machine Learning: Classification | Selesai |
+| 4 | Unsupervised Machine Learning | Belum Dimulai |
+| 5 | Deep Learning and Reinforcement Learning | Belum Dimulai |
+| 6 | Machine Learning Capstone | Belum Dimulai |
+
+### Progress Selanjutnya
+
+Melanjutkan pembelajaran pada course Unsupervised Machine Learning.
+
+### Bukti Progress
+
+Progress dicatat berdasarkan status pembelajaran pada Coursera.
